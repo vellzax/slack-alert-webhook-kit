@@ -1,0 +1,1 @@
+function alert(title, msg) { return { text: `${title}: ${msg}` }; } module.exports = { alert };
